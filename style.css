@@ -1,0 +1,39 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+body{
+    font-family: 'Source Sans Pro';
+}
+
+
+header{
+    text-align: center;
+    /* border: 1px solid gray; */
+  
+}
+
+
+ul {
+    list-style: none;
+
+}
+li {
+    display: inline-block;
+    text-align: left;
+   
+}
+    
+
+main{
+        text-align: center;
+        display:flex;
+        justify-content:center;
+        
+}
+button{
+        background-color: red;
+        padding:1.1em 3em;
+        color:white;
+        border:none;
+        
+        
+}
+
